@@ -24,4 +24,8 @@
   <img src="https://img.shields.io/badge/Amazone_AWS-232F3E?style=for-the-badge&logo=NCP&logoColor=white"/>
 
 </div>
-  
+
+<br></br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jooooonj&show_icons=true&locale=en&layout=compact" alt="jooooonj" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jooooonj&show_icons=true&locale=en" alt="jooooonj"/></p>
