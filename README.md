@@ -10,14 +10,9 @@
   <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
   <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/GitHub_Actions-3366FF?style=for-the-badge&logo=GitHubActions&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-FFFFF0?style=for-the-badge&logo=Docker&logoColor=blue"/>
-  <p>
-  <img src="https://img.shields.io/badge/Intellij_IDEA-000000?style=for-the-badge&logo=IntelliJIDEA&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-b4f5bd?style=for-the-badge&logo=Notion&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"/>
-  
+  <p>  
   
 
 </div>
